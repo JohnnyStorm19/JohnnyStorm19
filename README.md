@@ -3,8 +3,6 @@
 
 👨‍💻 All of my projects are available at [https://github.com/JohnnyStorm19](https://github.com/JohnnyStorm19)
 
-📫 How to reach me **ivan.pamikov@gmail.com, https://t.me/johnnyStorm19**
-
 ⚡ Fun fact **I can translate words backwards in a few seconds**
 
 <h3 align="left">Languages and Tools:</h3>
