@@ -5,7 +5,7 @@
 
 ✉️ You can mail me: ivan.pamikov@gmail.com 
 
-📱 Or get contact in [messenger](https://t.me/johnnyStorm19) 
+📱 Or get contact in [telegram messenger](https://t.me/johnnyStorm19) 
 
 ⚡ Fun fact **I can translate words backwards in a few seconds**
 
