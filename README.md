@@ -2,7 +2,9 @@
 <h3 align="left">A passionate frontend developer based in Saint-Petersburg</h3>
 
 👨‍💻 All of my projects are available at [github](https://github.com/JohnnyStorm19)
+
 ✉️ You can mail me: ivan.pamikov@gmail.com 
+
 📱 Or get contact in [messenger](https://t.me/johnnyStorm19) 
 
 ⚡ Fun fact **I can translate words backwards in a few seconds**
