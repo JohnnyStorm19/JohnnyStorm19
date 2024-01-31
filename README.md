@@ -7,7 +7,7 @@
 
 📱 Or get contact in [telegram messenger](https://t.me/johnnyStorm19) 
 
-⚡ Fun fact **I can translate words backwards in a few seconds**
+⚡ Fun and useless fact about me: **I can translate words backwards in a few seconds**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
