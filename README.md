@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ivan Pamikov</h1>
-<h3 align="left">🌍 Frontend developer based in Saint-Petersburg</h3>
+<h3 align="left">🌍 Frontend developer based in Saint-Petersburg, Russia</h3>
 
 👨‍💻 All of my projects are available at [github](https://github.com/JohnnyStorm19)
 
