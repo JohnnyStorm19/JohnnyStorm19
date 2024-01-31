@@ -8,11 +8,10 @@
 ⚡ Fun fact **I can translate words backwards in a few seconds**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,redux,vite,tailwind,html,css,sass,jest,nodejs,express,postman,webpack,figma" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,vite,tailwind,html,css,sass,jest,nodejs,express,postman,webpack,figma)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnnystorm19&show_icons=true&locale=en&layout=compact" alt="johnnystorm19" /></p>
