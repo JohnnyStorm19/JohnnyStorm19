@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Ivan Pamikov</h1>
 <h3 align="left">🌍 Frontend developer based in Saint-Petersburg, Russia</h3>
 
-👨‍💻 All of my projects are available at [github](https://github.com/JohnnyStorm19)
+👨‍💻 My pet projects are pinned at [github](https://github.com/JohnnyStorm19) 👇
 
 ✉️ You can mail me: ivan.pamikov@gmail.com 
 
@@ -12,7 +12,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,vite,tailwind,html,css,sass,jest,nodejs,express,postman,webpack,figma" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,vite,tailwind,materialui,html,css,sass,jest,nodejs,express,postman,webpack,figma" />
   </a>
 </p>
 
